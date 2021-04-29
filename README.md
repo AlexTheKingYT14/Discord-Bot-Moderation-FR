@@ -1,16 +1,18 @@
-# Moderation Bot
+# Bot Discord de Modération (Avec traduction en Français)
+
+Ce projet a été initialement créé par ManavvGarg : https://github.com/ManavvGarg/Discord-Moderation-Bot 
 
 #### Requirements & Steps
-* This Project
-* Node.js, Discord.js Installed
-* Discord Bot Token, Prefix
-* Edit the `config.js and owner.json` file
-* Run `npm i` once in Terminal to install Dependencies
-* Run `node index.js` to ***RUN*** the bot.
+* Le projet
+* Node.js, Discord.js installé
+* Token du bot, Prefix
+* Modifier le fichier `config.js and owner.json`
+* Execute `npm i` dans ton terminal pour installer les dépendances 
+* Execute `node index.js` pour ***lancer*** le bot.
 
-#### Features & Info
+#### Fonctionnalités et informations
 * Author: `Manav Garg`
-* Moderation Bot built to manage discord servers.
+* Bot Discord de modération pour votre Discord.
 * This bot has all the premium commands too. Hackban/forceban [Type of ip ban] is also available
 * Modular Discord bot built entirely on pure JavaScript using Discord.JS.
 * Modlogs for all the actions.
